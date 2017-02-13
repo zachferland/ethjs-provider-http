@@ -43,7 +43,6 @@
           "loose": true
         }
       ],
-      "transform-imports",
       "transform-es2015-literals",
       "transform-es2015-function-name",
       "transform-es2015-arrow-functions",
@@ -130,7 +129,6 @@
     "babel-plugin-transform-es2015-unicode-regex": "6.11.0",
     "babel-plugin-transform-es3-member-expression-literals": "6.5.0",
     "babel-plugin-transform-es3-property-literals": "6.5.0",
-    "babel-plugin-transform-imports": "1.1.0",
     "babel-plugin-transform-object-rest-spread": "6.19.0",
     "babel-register": "6.18.0",
     "chai": "3.5.0",
